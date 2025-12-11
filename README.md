@@ -15,6 +15,8 @@ I am an Applied AI & Robotics student at Houston Community College with a strong
 ## Featured Courses & Projects
 
 ### Computer Vision (ITAI 1378)
+### A.I. in Cybersecurity (ITAI-1327)
+### Intro to Machine Learning (ITAI-1371)
 
 ## Technical Skills  
 - **Languages:** Python  
@@ -88,9 +90,7 @@ I am an Applied AI & Robotics student at Houston Community College with a strong
 
 Project: https://github.com/nhahuynh/fridge-vision
 ---
-### A.I. in Cybersecurity (ITAI-1327)
 
-### Intro to Machine Learning (ITAI-1371)
 
 ## Contact
 
