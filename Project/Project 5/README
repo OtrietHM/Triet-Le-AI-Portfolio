@@ -1,44 +1,44 @@
 
 ---
 
-# ✅ **README #5 — L06 Object Detection**
+# **README #5 — L06 Object Detection**
 
 Folder:  
 **`ComputerVision/L06_Object_Detection/README.md`**
 
-```markdown
+
 # L06 – Object Detection Using Transfer Learning  
 ### ITAI 1378 – Computer Vision • Triet Le
 
-## 📌 Overview  
+## Overview  
 This project applies pretrained object detection models to locate objects in images using bounding boxes. Transfer learning makes object detection efficient without training a model from scratch.
 
-## 🧠 Skills Learned  
+## Skills Learned  
 - Using pretrained CNN detection models  
 - Drawing bounding boxes on images  
 - Confidence score interpretation  
 - Working with image tensors  
 
-## 🧪 What This Notebook Does  
+## What This Notebook Does  
 - Loads pretrained models  
 - Runs inference on sample images  
 - Visualizes detected objects  
 - Shows bounding box coordinates and scores  
 
-## 📊 Key Takeaways  
+## Key Takeaways  
 - Transfer learning drastically reduces training time  
 - Detection accuracy varies by image quality  
 - Threshold tuning affects the number of detections  
 
-## ▶️ How to Run  
+## How to Run  
 Run the notebook in Google Colab.  
 Dependencies are typically included in Colab; otherwise, install TensorFlow or PyTorch.
 
-## 🛠 Technologies Used  
+## Technologies Used  
 - TensorFlow / PyTorch  
 - OpenCV  
 - NumPy  
 
-## 🚀 Future Improvements  
+## Future Improvements  
 - Add real-time webcam detection  
 - Compare YOLO vs SSD vs Faster-RCNN  
