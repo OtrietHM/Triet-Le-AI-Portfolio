@@ -1,1 +1,38 @@
 
+---
+
+# **README #7 — Lab 09 Hyperparameter Tuning**
+
+Folder:  
+**`ComputerVision/Lab09_Hyperparameter/README.md`**
+
+
+# Lab 09 – Hyperparameter Tuning  
+### ITAI 1378 – Computer Vision • Triet Le
+
+## Overview  
+This lab teaches how model performance changes when adjusting hyperparameters such as learning rate, batch size, depth, and regularization settings.
+
+## Skills Learned  
+- Grid search & parameter sweeps  
+- Evaluating model accuracy vs validation loss  
+- Detecting overfitting and underfitting  
+- Understanding learning curves  
+
+## What This Notebook Does  
+- Trains models with multiple hyperparameter settings  
+- Records accuracy, loss, and other metrics  
+- Visualizes model performance  
+- Compares baseline vs tuned model  
+
+## Key Takeaways  
+- Small changes in parameters can greatly affect results  
+- More complexity ≠ better performance  
+- Good tuning helps balance bias and variance  
+
+## How to Run  
+Run in Jupyter or Google Colab.  
+Install scikit-learn if needed:  
+
+pip install scikit-learn
+
