@@ -16,7 +16,7 @@ deep learning and computer vision. This portfolio showcases the projects I have 
 ## Featured Courses & Projects
 
 ### Computer Vision (ITAI 1378)
-
+-https://github.com/nhahuynh/fridge-vision
 ### A.I. in Cybersecurity (ITAI-1327)
 
 ### Intro to Machine Learning (ITAI-1371)
