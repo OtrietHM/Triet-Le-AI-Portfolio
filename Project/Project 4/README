@@ -1,1 +1,30 @@
+# L05 – CNN: Chihuahua vs Muffin Classifier  
+### ITAI 1378 – Computer Vision • Triet Le
+
+## Overview  
+This project uses a Convolutional Neural Network (CNN) to classify images of Chihuahuas and muffins—a fun but challenging task due to the visual similarity between the two classes.
+
+## Skills Learned  
+- Building CNN models for image classification  
+- Understanding convolution, pooling, and feature extraction  
+- Comparing CNNs vs traditional MLPs  
+- Plotting accuracy/loss curves  
+- Debugging training issues  
+
+## What This Notebook Does  
+- Loads a prepared Chihuahua & Muffin dataset  
+- Builds a CNN architecture from scratch  
+- Trains the model and evaluates accuracy  
+- Visualizes predictions and misclassifications  
+- Generates a confusion matrix  
+
+## Key Findings  
+- CNNs significantly outperform basic neural networks for images  
+- Misclassifications often come from near-identical textures  
+- Training stability depends heavily on learning rate and batch size  
+
+## How to Run  
+Use Google Colab or a local GPU if available:  
+
+pip install tensorflow keras matplotlib
 
