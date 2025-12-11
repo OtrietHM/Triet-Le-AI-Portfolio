@@ -1,1 +1,30 @@
+# L04 – Multi-Layer Perceptron Reflection  
+### ITAI 1378 – Computer Vision • Triet Le
+
+## Overview  
+This lab focused on understanding how Multi-Layer Perceptrons (MLPs) work and how they learn through backpropagation. Instead of working with images, this exercise explored the fundamentals that later support CNN architectures.
+
+## Skills Learned  
+- How linear layers, weights, and biases work  
+- Activation functions such as ReLU & Sigmoid  
+- Backpropagation and gradient descent  
+- Hyperparameters: learning rate, epochs, batch size  
+
+## Summary of Key Concepts  
+- MLPs treat all inputs equally → they don’t understand spatial structure  
+- Changing hyperparameters affects convergence and accuracy  
+- Overfitting appears when training accuracy increases but validation does not  
+
+## Reflection  
+This assignment helped build intuition about how neural networks learn and why CNNs are needed for image-focused tasks.  
+*(Full reflection in the attached `.docx`)*
+
+## Technologies Used  
+- Python  
+- PyTorch / NumPy  
+- Jupyter Notebook  
+
+## Future Improvements  
+- Add small visual diagrams of MLP structure  
+- Demonstrate training curves (loss vs epochs)  
 
