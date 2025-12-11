@@ -18,7 +18,7 @@ deep learning and computer vision. This portfolio showcases the projects I have 
 ### Computer Vision (ITAI 1378)
 Project: https://github.com/nhahuynh/fridge-vision
 ### A.I. in Cybersecurity (ITAI-1327)
-Project: https://houcomcol-my.sharepoint.com/:p:/g/personal/w216865971_student_hccs_edu/IQDtvFFoa5_JQ7QseepaW_2UAZu_FtzQlM2Q1PGNP4tmCGA?e=N7jpCU
+Project: 
 ### Intro to Machine Learning (ITAI-1371)
 
 ## Contact
