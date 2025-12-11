@@ -2,7 +2,7 @@
 
 This README documents a project exploring image classification of chihuahua dogs and muffins using convolutional neural network.
 
---
+---
 
 ## Problem Statement
 

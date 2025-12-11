@@ -2,7 +2,7 @@
 
 This README documents a project exploring the image classification between chihuahua dogs and muffins using a neural network.
 
---
+---
 
 ## Problem Statement
 

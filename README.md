@@ -17,8 +17,8 @@ deep learning and computer vision. This portfolio showcases the projects I have 
 
 ### Computer Vision (ITAI 1378)
 
-- [Object Detection System](link-to-project) - Real-time detection using YOLO
-- [Visual Language Models](link-to-project) - Implement zero-shot classification and caption generation using VLMs
+- [Object Detection System](https://github.com/nhahuynh/nha-huynh-ai-portfolio/blob/main/ITAI%201378/Project%206%20-%20Object%20Detection%20using%20Transfer%20learning%20and%20Pascal%20VOC%20207%20Dataset/Project%206%20README.md) - Real-time detection using YOLO
+- [Visual Language Models](<https://github.com/nhahuynh/nha-huynh-ai-portfolio/blob/main/ITAI%201378/Project%208%20-%20Visual%20Language%20Models%20(VLMs)/Project%208%20README.md>) - Implement zero-shot classification and caption generation using VLMs
 
 ### Artificial Intelligence in Cybersecurity (ITAI 1372)
 
