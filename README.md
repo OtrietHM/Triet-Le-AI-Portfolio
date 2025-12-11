@@ -17,10 +17,9 @@ deep learning and computer vision. This portfolio showcases the projects I have 
 
 ### Computer Vision (ITAI 1378)
 
+### A.I. in Cybersecurity (ITAI-1327)
 
-
-### Artificial Intelligence in Cybersecurity (ITAI 1372)
-
+### Intro to Machine Learning (ITAI-1371)
 
 ## Contact
 
