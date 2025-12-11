@@ -1,1 +1,28 @@
+# Lab 08 – Vision-Language Model (CLIP) Exercise  
+### ITAI 1378 – Computer Vision • Triet Le
+
+## Overview  
+This lab explores CLIP (Contrastive Language–Image Pretraining), a model that embeds images and text into the same vector space so their similarity can be compared.
+
+## Skills Learned  
+- Generating embeddings for images & text  
+- Computing cosine similarity  
+- Interpreting similarity matrices  
+- Zero-shot classification  
+
+## What This Notebook Does  
+- Loads CLIP model  
+- Generates embeddings for sample images  
+- Computes similarity scores vs text descriptions  
+- Displays a heatmap of similarities  
+- Identifies closest text-to-image matches  
+
+## Key Takeaways  
+- High similarity = strong semantic match  
+- CLIP performs classification without explicit training  
+- Embeddings make multimodal tasks possible  
+
+## How to Run  
+Colab recommended:  
+pip install openai-clip matplotlib
 
