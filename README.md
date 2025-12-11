@@ -2,8 +2,7 @@
 
 ## About Me
 
-I am an applied AI student at Houston Community College, specializing in
-deep learning and computer vision. This portfolio showcases the projects I have completed from classes in the AI & Robotics program.
+I am an Applied AI & Robotics student at Houston Community College with a strong interest in computer vision and deep learning. This portfolio highlights my key projects from ITAI 1378 (Computer Vision) and showcases practical applications of image processing, neural networks, and vision-language models using Python and OpenCV.
 
 ## Technical Skills
 
@@ -16,17 +15,8 @@ deep learning and computer vision. This portfolio showcases the projects I have 
 ## Featured Courses & Projects
 
 ### Computer Vision (ITAI 1378)
-# Triet Le – Applied AI Portfolio  
-### Houston Community College • Applied AI & Robotics Program
 
----
-
-## 👋 About Me  
-I am an Applied AI & Robotics student at Houston Community College with a strong interest in computer vision and deep learning. This portfolio highlights my key projects from ITAI 1378 (Computer Vision) and showcases practical applications of image processing, neural networks, and vision-language models using Python and OpenCV.
-
----
-
-## 🧠 Technical Skills  
+## Technical Skills  
 - **Languages:** Python  
 - **Computer Vision:** OpenCV, image filtering, histograms, feature extraction  
 - **Deep Learning:** Convolutional Neural Networks (CNNs), transfer learning  
@@ -36,18 +26,16 @@ I am an Applied AI & Robotics student at Houston Community College with a strong
 
 ---
 
-## 📂 Portfolio Overview
+### Computer Vision (ITAI 1378)
 
-### 🟥 Computer Vision (ITAI 1378)
-
-#### 🔹 L02 – Intro to Image Processing  
+#### L02 – Intro to Image Processing  
 **Notebook:** `L02_Le_Triet_ITAI1378.ipynb`  
 - Worked with image resizing, grayscale conversion, and pixel manipulation  
 - Used OpenCV for basic image processing tasks  
 
 ---
 
-#### 🔹 L03 – Image Filters & Histogram Processing  
+#### L03 – Image Filters & Histogram Processing  
 **Notebook:** `L03_A_Triet_Le_ITAI_1378.ipynb`  
 - Applied smoothing and sharpening filters  
 - Performed histogram equalization  
@@ -55,14 +43,14 @@ I am an Applied AI & Robotics student at Houston Community College with a strong
 
 ---
 
-#### 🔹 L04 – Multi-Layer Perceptron (MLP) Reflection  
+#### L04 – Multi-Layer Perceptron (MLP) Reflection  
 **Document:** `L04_TrietLe_ITAI_1378_MLP_Reflection.docx`  
 - Reflected on MLP fundamentals, training, and optimization  
 - Discussed hyperparameters and learning behavior  
 
 ---
 
-#### 🔹 L05 – CNN: Chihuahua vs Muffin  
+#### L05 – CNN: Chihuahua vs Muffin  
 **Notebook:** `Lab05_CNN_Chihuahua_Muffin.ipynb`  
 - Built a convolutional neural network classifier  
 - Compared performance with basic neural network architectures  
@@ -70,14 +58,14 @@ I am an Applied AI & Robotics student at Houston Community College with a strong
 
 ---
 
-#### 🔹 L06 – Object Detection (Transfer Learning)  
+#### L06 – Object Detection (Transfer Learning)  
 **Notebook:** `L06_Triet_Le_ITAI1378.ipynb`  
 - Loaded pretrained models for detecting objects in images  
 - Generated bounding boxes and visualized predicted outputs  
 
 ---
 
-#### 🔹 Lab 08 – Vision-Language Models (VLM/CLIP)  
+#### Lab 08 – Vision-Language Models (VLM/CLIP)  
 **Notebook:** `Lab_08_2025_VLM_Lab_Exercise.ipynb`  
 - Used CLIP to represent images and text in a shared feature space  
 - Performed zero-shot classification via cosine similarity  
@@ -85,18 +73,11 @@ I am an Applied AI & Robotics student at Houston Community College with a strong
 
 ---
 
-#### 🔹 Lab 09 – Hyperparameter Tuning  
+#### Lab 09 – Hyperparameter Tuning  
 **Notebook:** `L09Hyperparameter_Tuning.ipynb`  
 - Explored grid search and tuning techniques  
 - Evaluated model performance across different parameter combinations  
 - Visualized performance curves and metrics
-
----
-
-## 📬 Contact  
-- **Email:** *(add your email here)*  
-- **LinkedIn:** *(optional – add your LinkedIn URL if available)*  
-- **GitHub:** https://github.com/OtrietHM  
 
 ---
 
@@ -106,6 +87,7 @@ I am an Applied AI & Robotics student at Houston Community College with a strong
 - Additional project documentation may be included in project subfolders.  
 
 Project: https://github.com/nhahuynh/fridge-vision
+---
 ### A.I. in Cybersecurity (ITAI-1327)
 
 ### Intro to Machine Learning (ITAI-1371)
