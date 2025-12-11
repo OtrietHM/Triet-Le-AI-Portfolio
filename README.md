@@ -83,7 +83,7 @@ I am an Applied AI & Robotics student at Houston Community College with a strong
 
 ---
 
-## 📌 Notes  
+## Notes  
 - All notebooks are executable with visible outputs and explanations.  
 - Public datasets are referenced by name or load function (not uploaded).  
 - Additional project documentation may be included in project subfolders.  
