@@ -1,1 +1,31 @@
+# L02 – Intro to Image Processing  
+### ITAI 1378 – Computer Vision • Triet Le
+
+## 📌 Overview  
+This lab introduced the fundamentals of working with digital images using Python and OpenCV. The notebook covers essential preprocessing steps that form the foundation for more advanced computer vision tasks later in the course.
+
+## 🧠 Skills Learned  
+- Loading images with OpenCV  
+- Converting images to grayscale  
+- Resizing and cropping  
+- Pixel-level reading and manipulation  
+- Displaying images in Jupyter Notebook  
+
+## 🧪 What This Notebook Does  
+- Loads a sample image from disk  
+- Converts RGB → Grayscale  
+- Resizes the image using interpolation  
+- Performs simple pixel arithmetic  
+- Displays each transformation step  
+
+## 📊 Key Takeaways  
+- Image data is stored as matrices of pixel values  
+- Understanding shape, channels, and color models is essential  
+- Preprocessing improves the performance of later ML/CV models  
+
+## ▶️ How to Run  
+1. Open the notebook in Jupyter or Google Colab  
+2. Install OpenCV if needed:  
+   ```bash
+   pip install opencv-python
 
