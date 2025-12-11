@@ -26,6 +26,5 @@ This lab introduced the fundamentals of working with digital images using Python
 ## How to Run  
 1. Open the notebook in Jupyter or Google Colab  
 2. Install OpenCV if needed:  
-   ```bash
    pip install opencv-python
 
