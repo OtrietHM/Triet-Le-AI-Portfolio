@@ -1,1 +1,47 @@
 
+---
+
+# **README #2 — L03 Image Filters & Histograms**
+
+Folder:  
+**`ComputerVision/L03_Image_Filters/README.md`**
+
+```markdown
+# L03 – Image Filters & Histogram Processing  
+### ITAI 1378 – Computer Vision • Triet Le
+
+## Overview  
+This lab explores image enhancement techniques using filters and histogram manipulation. These operations help improve image clarity or extract useful features for computer vision models.
+
+## Skills Learned  
+- Applying blur and sharpening filters  
+- Using Gaussian, Median, and Bilateral filters  
+- Visualizing histograms  
+- Histogram equalization and contrast improvement  
+- Understanding noise reduction techniques  
+
+## What This Notebook Does  
+- Loads an image and applies multiple filtering methods  
+- Shows the effect of each filter on image sharpness and noise  
+- Displays histogram distributions before and after processing  
+
+## Key Takeaways  
+- Filters enhance details or reduce noise depending on how they’re used  
+- Histogram equalization improves contrast in low-light images  
+- Smoothing filters help CNNs by reducing irrelevant noise  
+
+## How to Run  
+1. Open in Jupyter or Google Colab  
+2. Install OpenCV if needed  
+3. Run cells sequentially to visualize results  
+
+## Technologies Used  
+- Python  
+- OpenCV  
+- NumPy  
+- Matplotlib  
+
+## Future Improvements  
+- Add Sobel and Canny edge detection  
+- Compare histogram equalization vs CLAHE  
+
